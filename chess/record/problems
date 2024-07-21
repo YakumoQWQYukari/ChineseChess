@@ -1,6 +1,0 @@
-问题（1）：javafx中图片的加载
-解决：要加上协议名(java8中的志愿定位符一定要加上所属类型)
-url:Uniform Resource Locator, 统一资源定位器
-格式：protocol :// hostname[:port] / path / [;parameters][?query]#fragment
-protocal协议，通过某种固定的方式来访问资源
-hostname[:port]:存放资源的服务器，端口：连接口
